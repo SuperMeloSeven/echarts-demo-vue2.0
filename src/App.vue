@@ -1,17 +1,12 @@
 <template>
   <div id="app">
-    <echarts-demo></echarts-demo>
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import echartsDemo from './components/echarts-demo'
-
 export default {
-  name: 'App',
-  components: {
-    echartsDemo
-  }
+  name: 'App'
 }
 </script>
 

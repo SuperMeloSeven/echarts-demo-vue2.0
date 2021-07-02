@@ -1,9 +1,0 @@
-<template>
-  <div>
-    测试git
-    只留下一个测试回撤版本
-    再次测试回退版本问题
-    测试31231333
-    ddadd
-  </div>
-</template>
