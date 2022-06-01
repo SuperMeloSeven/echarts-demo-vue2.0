@@ -1,6 +1,7 @@
 <template>
   <div>
     测试git flow
+    并且我是一些新功能
   </div>
 </template>
 
