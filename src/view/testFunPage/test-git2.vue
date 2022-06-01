@@ -1,6 +1,7 @@
 <template>
   <div>
     我是test git2
+    我的第二次提交
   </div>
 </template>
 
