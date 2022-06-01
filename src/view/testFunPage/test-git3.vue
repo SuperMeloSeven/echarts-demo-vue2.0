@@ -1,6 +1,7 @@
 <template>
   <div>
     我是test git3
+    我也处理了问题
   </div>
 </template>
 
